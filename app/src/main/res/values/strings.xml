@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Michael Does Android with Java</string>
+    <string name="activity_1">Here comes my face!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Pokemon Trainer Profile</string>
+    <string name="second_fragment_label">Settings</string>
+    <string name="next">Next</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_michael">Hello! My name is Michael Savard</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="i_like_potato">I like potato</string>
+    <string name="theme">Select a Theme:</string>
+    <string name="mick_photo">An image of Michael</string>
+    <string name="michael">Settings</string>
+    <string name="background">Spring</string>
+    <string name="about_me">Michael S. is a fan of Pokémon and a your classical nerd. Always trying
+        to find an alternative to every problem he\'s an out of the box thinker. Most of the time
+    you will find him playing some video games or just relaxing under the sun. He\'s a proud member of
+    the Queer Community and has been implicated in multiple aspect of community work related to queerness.
+    </string>
+    <string name="about_me2">
+    Michael is proud to be on the Spectrum, and will always support and help those who struggle with
+    mental health issues.</string>
+
+
+</resources>

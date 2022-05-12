@@ -1,0 +1,67 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Spring" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <!-- Base application theme. -->
+    </style>
+    <style name="Spring.Color" parent="Spring">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/main</item>
+        <item name="colorPrimaryVariant">@color/main_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/button</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Winter" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/winter_main</item>
+        <item name="colorPrimaryVariant">@color/winter_main_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/winter_secondary</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/winter_button</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Summer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/summer_main</item>
+        <item name="colorPrimaryVariant">@color/summer_main_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/summer_secondary</item>
+        <item name="colorSecondaryVariant">@color/summer_button</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Fall" parent="Theme.MaterialComponents.DayNight.DarkActionBar">        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/fall_main</item>
+        <item name="colorPrimaryVariant">@color/fall_main_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/fall_secondary</item>
+        <item name="colorSecondaryVariant">@color/fall_secondary</item>
+        <item name="colorOnSecondary">@color/fall_button</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Spring.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Spring.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Spring.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

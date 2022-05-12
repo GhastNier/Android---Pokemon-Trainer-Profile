@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="summer_main">#F6AC0D</color>
+    <color name="summer_main_variant">#C58E19</color>
+    <color name="summer_secondary">#F3E803</color>
+    <color name="summer_accent">#04C1E1</color>
+    <color name="summer_button">#B7EBB9</color>
+
+    <color name="main">#AFC86D</color>
+    <color name="main_variant">#7E914B</color>
+    <color name="secondary">#6A9665</color>
+    <color name="accent">#F9BA34</color>
+    <color name="button">#F7F07A</color>
+
+    <color name="winter_main">#757CA3</color>
+    <color name="winter_main_variant">#8692D5</color>
+    <color name="winter_secondary">#B6A5BE</color>
+    <color name="winter_accent">#DFBAC1</color>
+    <color name="winter_button">#14161F</color>
+
+    <color name="fall_main">#FF5722</color>
+    <color name="fall_main_variant">#B3350E</color>
+    <color name="fall_secondary">#418293</color>
+    <color name="fall_accent">#E09F3E</color>
+    <color name="fall_button">#FFF3B0</color>
+</resources>
